@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ninaschoenholzer/<OWNER>/<OWNER>/header.png "Header")]
+[![Header](https://github.com/ninaschoenholzer/ninaschoenholzer/blob/master/Header.png "Header")]
 
 
 <!--
