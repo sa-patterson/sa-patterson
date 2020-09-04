@@ -1,6 +1,6 @@
 ![Header](https://github.com/ninaschoenholzer/ninaschoenholzer/blob/master/Header.png "Header")
 
-Hi there! My name is Sabrina and I'm a data scientist. I'm a svn veteran and quite new to using git, so please be gentle.
+Hi there! My name is Sabrina and I'm a data scientist. I'm a svn veteran and rarely used git, so please be gentle :)
 
 **Role:** Data Science Lead, APAC for the Internal Audit function of a Fortune 500 Insurance Company\
 **Background:** I hold a Master's in Geophysics, and I've been working in R&D/data science for the financial industry for a decade\
