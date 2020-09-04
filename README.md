@@ -1,5 +1,4 @@
-[![Header](https://github.com/ninaschoenholzer/ninaschoenholzer/blob/master/Header.png "Header")]
-
+![Header](https://github.com/ninaschoenholzer/ninaschoenholzer/blob/master/Header.png "Header")
 
 <!--
 **ninaschoenholzer/ninaschoenholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
