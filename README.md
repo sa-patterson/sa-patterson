@@ -5,7 +5,8 @@ Hi there! My name is Sabrina and I'm a data scientist. I'm a subversion veteran 
 **Background:** I hold a Master's in Geophysics, and I've been working in R&D/data science for the financial industry for a decade. 
 
 **Tech Stack:** Today I mainly use Python with the occasional bit of SQL or R. Some web stuff may come up once in a while.
-![](https://img.shields.io/badge/<System>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!--
