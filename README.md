@@ -6,11 +6,16 @@ Hi there! My name is Sabrina and I'm a data scientist. I'm a subversion veteran 
 
 **Tech Stack:** Today I mainly use Python with the occasional bit of SQL or R. Some web stuff may come up once in a while.
 
-![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=195c2b)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-ScikitLearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=759e80)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=759e80)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=759e80)
+![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=759e80)
 
 <!--
 **ninaschoenholzer/ninaschoenholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
