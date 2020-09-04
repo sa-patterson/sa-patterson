@@ -3,8 +3,8 @@
 Hi there! My name is Sabrina and I'm a data scientist. I'm a svn veteran and quite new to using git, so please be gentle.
 
 **Role:** Data Science Lead, APAC for the Internal Audit function of a Fortune 500 Insurance Company\
-**Background:** I hold a Master's in Geophysics, and I've been working in R&D/data science for the financial industry for a decade \
-**Tech Stack:** Today I mainly use Python with the occasional bit of SQL or R. Some web stuff may come up once in a while \
+**Background:** I hold a Master's in Geophysics, and I've been working in R&D/data science for the financial industry for a decade\
+**Tech Stack:** Today I mainly use Python with the occasional bit of SQL or R. Some web stuff may come up once in a while
 
 ![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=195c2b)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=28382c)
@@ -17,7 +17,7 @@ Hi there! My name is Sabrina and I'm a data scientist. I'm a svn veteran and qui
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=759e80)
 ![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=759e80)
 
-I'm interested in a lot of different technologies from data to web to devops and security and open to contibuting to projects that could use my Python skill or experience.
+I'm interested in a lot of different technologies from data to web to devops and security. As a long time Linux user and open source enthusiast I am also open to contibute to projects relevant to my skills and/or experience.
 
 
 <!--
