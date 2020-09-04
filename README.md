@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/ninaschoenholzer/<OWNER>/<OWNER>/header.png "Header")]
+
 
 <!--
 **ninaschoenholzer/ninaschoenholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
