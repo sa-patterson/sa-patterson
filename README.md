@@ -1,10 +1,10 @@
 ![Header](https://github.com/ninaschoenholzer/ninaschoenholzer/blob/master/Header.png "Header")
 
-Hi there! My name is Sabrina and I'm a data scientist. I'm a svn veteran and rarely used git, so please be gentle :)
+Hi there! My name is Sabrina and I'm a data scientist.
 
 **Role:** Data Science Lead, APAC for the Internal Audit function of a Fortune 500 Insurance Company\
 **Background:** I hold a Master's in Geophysics, and I've been working in R&D/data science for the financial industry for a decade\
-**Tech Stack:** Today I mainly use Python with the occasional bit of SQL or R. Some web stuff may come up once in a while
+**Tech Stack:** Today I mainly use Python with the occasional bit of SQL or R. 
 
 ![](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=195c2b)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=28382c)
